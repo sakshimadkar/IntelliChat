@@ -1,0 +1,13 @@
+# Environment variables
+.env
+Backend/.env
+
+# Python
+__pycache__/
+*.pyc
+
+# Node
+node_modules/
+
+# OS files
+.DS_Store
